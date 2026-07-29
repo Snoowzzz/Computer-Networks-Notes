@@ -55,7 +55,7 @@ DSL: 24 Mbps downstream and 2.5 Mbps upstream (MAX VALUES). Because of the diffe
 CABLE: 42.8 Mbps downstream and 30.7 Mbps upstream (MAX VALUES).
 Cable Internet access is a shared broadcast medium: each packet travels downstream on every link to every home and viceversa. For this, if several users are simultaneously using the downstream channel, the actual rate will be significantly lower.
 
-Another up-and-coming technology that promises very high speeds is **fiber to the home (FTTH)**. The concept is simple: provide an optical fiber path from the Central Office (CO)
+<mark>Another up-and-coming technology that promises very high speeds is **fiber to the home (FTTH)**. The concept is simple: provide an optical fiber path from the Central Office (CO)</mark>
 
 #### Access in the Enterprise and the Home: Ethernet and WiFi
 On corporate and university campuses, and increasingly in home settings, a **Local Area Network (LAN)** is used to connect an end system to the edge router.
