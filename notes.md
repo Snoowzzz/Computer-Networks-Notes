@@ -59,7 +59,7 @@ Cable Internet access is a shared broadcast medium: each packet travels downstre
 
 #### Access in the Enterprise and the Home: Ethernet and WiFi
 On corporate and university campuses, and increasingly in home settings, a **Local Area Network (LAN)** is used to connect an end system to the edge router.
-Ethernet is by far the most prevalent access technology is corporate, university and home networks. Ethernet uses twisted-pair copper wire to connect to an Ethernet switch which is connected into the larger Internet.
+Ethernet is by far the most prevalent access technology in corporate, university and home networks. Ethernet uses twisted-pair copper wire to connect to an Ethernet switch which is connected into the larger Internet.
 The Internet is increasingly accessed wirelessly: wireless users transmit/receive packets to/from an access point connected into the enterprise's network which in turn is connected to the wired Internet.
 
 #### Wide-Area Wireless Access: 3G and LTE
