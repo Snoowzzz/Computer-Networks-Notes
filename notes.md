@@ -27,12 +27,12 @@ The Internet can be described as *an infrastructure that provides services to ap
 <mark>End systems attached to the Internet provide and **Application Programming Interface (API)** that specifies how a program running on one end system asks the Internet infrastructure to deliver data to a specific destination program running on another end system.</mark>
 
 ### 1.1.3 What Is a Protocol?
-All the activity in the Internet that involves two or more communicating remote entities is governed by a protocol.
+<mark>All the activity in the Internet that involves two or more communicating remote entities is governed by a protocol.</mark>
 
 **A protocol defines the format and the order of messages exchanged between two or more communicating entities, as weel as the actions taken on the trasmission and/or receipt of a message or other event**
 
 ## 1.2 The Network Edge
-Computers and other devices connected to the Internet are often referred to as *end systems* as they sit at the edge of the Internet. They are also called *hosts* as they host, run, applications programs such as a Web Browser or an email client.
+<mark>Computers and other devices connected to the Internet are often referred to as *end systems* as they sit at the edge of the Internet.</mark> They are also called *hosts* as they host, run, applications programs such as a Web Browser or an email client.
 
 Hosts are sometimes further divided into two categories: *clients* and *servers*. The former being desktop, mobile pcs, smartphones, the latter being powerful machines that store and distribute Web pages, streams...
 Nowadays most of the servers reside in large *data centers*
@@ -42,7 +42,7 @@ They are the networks that physically connect end systems to the first router on
 Examples: mobile network, national or global ISP, local or regional ISP, home networks enterprise networks.
 
 #### Home Access: DSL, Cable, FITH, Dial-Up and Satellite
-Today, the two most prevalent types of broadband residential access are **digital subscriber line (DSL)** and **cable**.
+<mark>Today, the two most prevalent types of broadband residential access are **digital subscriber line (DSL)** and **cable**.</mark>
 
 A residence typically obtains DSL access from the telephone company (telco) that provides its wired local phone access. The customer's telco is therefore its ISP.
 DSL modem use the existing telephone lines to exchange data with DSLAMs (digital subscriber line access multiplexer) located in the telco local central office.<mark> The DSL modem takes digital data and translates it to high-frequency tones for transmission over telephone wires, these analog signals from many houses are translated back into digital format at the DSLAM. The use of different frequencies allows the phone line to carry a high-speed downstream channel, a medium-speed upstream channel and an ordinary two-way telephone channel.</mark>
@@ -59,7 +59,7 @@ Cable Internet access is a shared broadcast medium: each packet travels downstre
 
 #### Access in the Enterprise and the Home: Ethernet and WiFi
 On corporate and university campuses, and increasingly in home settings, a **Local Area Network (LAN)** is used to connect an end system to the edge router.
-Ethernet is by far the most prevalent access technology in corporate, university and home networks. Ethernet uses twisted-pair copper wire to connect to an Ethernet switch which is connected into the larger Internet.
+<mark>Ethernet is by far the most prevalent access technology in corporate, university and home networks.</mark> Ethernet uses twisted-pair copper wire to connect to an Ethernet switch which is connected into the larger Internet.
 The Internet is increasingly accessed wirelessly: wireless users transmit/receive packets to/from an access point connected into the enterprise's network which in turn is connected to the wired Internet.
 
 #### Wide-Area Wireless Access: 3G and LTE
